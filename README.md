@@ -70,7 +70,7 @@
 
 ```
 sudo apt-get install git  
-git clone https://github.com/shivasiddharth/GassistPi    
+git clone https://github.com/createlabz/GassistPi    
 ```
 
 *************************************************  
